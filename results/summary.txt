@@ -1,0 +1,29 @@
+Protein backbone RMSD: mean 2.02 +/- 0.26 A | 2nd-half mean 2.12 A | 2nd-half drift +0.002 A/ns
+Ligand RMSD          : mean 1.33 +/- 0.43 A | 2nd-half mean 1.54 A | 2nd-half drift +0.090 A/ns
+Radius of gyration   : mean 20.41 +/- 0.12 A | 2nd-half mean 20.40 A | 2nd-half drift +0.036 A/ns
+(drift near 0 means a plateau; a clearly positive drift means still relaxing)
+
+Ligand residue name used: UNL  (all non-water residues found: ['UNL'])
+
+Min ligand-protein heavy-atom distance: mean 2.81 A, max 3.17 A
+Protein residues within 4 A of ligand: mean 15.9 per frame
+Top contact residues (fraction of frames within 4 A):
+  GLU81   100.0%
+  LEU83   100.0%
+  GLN131   99.8%
+  ASP145   99.2%
+  PHE82    99.2%
+  ILE10    98.9%
+  ALA31    98.1%
+  LEU134   96.6%
+  LYS33    94.3%
+  PHE80    91.3%
+  VAL18    85.8%
+  GLU12    82.2%
+
+Top protein-ligand H-bonds (occupancy over all frames):
+   76.0%  UNL299:N1 -> GLU81:O
+   54.1%  LEU83:N -> UNL299:O1
+    9.7%  UNL299:N3 -> GLN131:O
+    0.2%  UNL299:O1 -> LEU83:N
+    0.2%  GLU81:O -> UNL299:N1

@@ -1,0 +1,4 @@
+name,ic50_nM,vina_kcal,redock_rmsd
+native,,-12.632,0.6414380272926938
+lig1,547,-9.551,
+lig2,4600,-8.489,

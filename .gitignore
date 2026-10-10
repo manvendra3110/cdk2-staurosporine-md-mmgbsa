@@ -1,0 +1,10 @@
+*.xtc
+*.trr
+*.edr
+*.cpt
+*.tpr
+*.log
+*.gro
+_GMXMMPBSA_*
+md/
+dock/*.pdbqt
